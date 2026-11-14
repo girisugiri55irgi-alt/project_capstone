@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ $guru->exists ? 'Edit' : 'Tambah' }} Data Guru - TK PAUD Birrul Walidain</title>
+    <title>{{ $guru->exists ? 'Edit' : 'Tambah' }} Data Guru - TK PAUD Birrul Walidin</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
           rel="stylesheet">
@@ -37,12 +37,12 @@
         <a class="navbar-brand d-flex align-items-center"
            href="{{ url('/dashboard') }}">
             <img src="{{ asset('images/logo1.jpeg') }}"
-                 alt="Logo TK PAUD Birrul Walidain"
+                 alt="Logo TK PAUD Birrul Walidin"
                  width="42"
                  height="42"
                  class="me-2 rounded-circle"
                  style="object-fit: cover;">
-            <span>TK PAUD Birrul Walidain</span>
+            <span>TK PAUD Birrul Walidin</span>
         </a>
 
         <a href="{{ route('guru.index') }}" class="btn btn-light btn-sm">
@@ -283,7 +283,7 @@
             </div>
 
             <p class="text-center text-muted small mt-4">
-                TK PAUD Birrul Walidain &copy; {{ date('Y') }}
+                TK PAUD Birrul Walidin &copy; {{ date('Y') }}
             </p>
 
         </div>
