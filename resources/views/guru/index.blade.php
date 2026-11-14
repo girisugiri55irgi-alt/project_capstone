@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Data Guru - PAUD Birrul Walidin</title>
+    <title>Data Guru - PAUD Birrul Walidain</title>
 
     <!-- Bootstrap 5.3.3 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
@@ -92,12 +92,12 @@
            href="{{ $dashboardRoute }}">
 
             <img src="{{ asset('images/logo1.jpeg') }}"
-                 alt="Logo PAUD Birrul Walidin"
+                 alt="Logo PAUD Birrul Walidain"
                  class="school-logo"
                  onerror="this.style.display='none'">
 
             <span>
-                <strong>PAUD Birrul Walidin</strong>
+                <strong>PAUD Birrul Walidain</strong>
                 <small class="d-block text-white-50">
                     Sistem Monitoring Perkembangan Anak
                 </small>
@@ -122,7 +122,7 @@
         <div>
             <h2 class="page-title mb-1">Data Guru PAUD</h2>
             <p class="text-secondary mb-0">
-                Pengelolaan data pendidik TK PAUD Birrul Walidin.
+                Pengelolaan data pendidik TK PAUD Birrul Walidain.
             </p>
         </div>
 
@@ -268,7 +268,7 @@
 
     <!-- Footer -->
     <footer class="text-center text-secondary small mt-4">
-        © {{ date('Y') }} PAUD Birrul Walidin
+        © {{ date('Y') }} PAUD Birrul Walidain
         · Sistem Monitoring Perkembangan dan Evaluasi Belajar Anak
     </footer>
 
