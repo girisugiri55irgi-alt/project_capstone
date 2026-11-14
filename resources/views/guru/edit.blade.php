@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Edit Data Guru - TK PAUD Birrul Walidin</title>
+    <title>Edit Data Guru - TK PAUD Birrul Walidain</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
           rel="stylesheet">
@@ -40,7 +40,7 @@
                  class="me-2 rounded-circle"
                  style="object-fit: cover;">
 
-            <span>TK PAUD Birrul Walidin</span>
+            <span>TK PAUD Birrul Walidain</span>
         </a>
 
         <a href="{{ route('guru.index') }}" class="btn btn-light btn-sm">
