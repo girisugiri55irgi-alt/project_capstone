@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Evaluasi Perkembangan - TK PAUD Birrul Walidain</title>
+    @include('partials.favicon')
 </head>
 <body>
     <h1>📊 Evaluasi Perkembangan Anak</h1>

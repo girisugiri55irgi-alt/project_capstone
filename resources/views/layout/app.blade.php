@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>@yield('title', 'TK PAUD Birrul Walidain')</title>
+    @include('partials.favicon')
 
     <!-- Bootstrap 5 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
@@ -183,7 +184,7 @@
             <a class="navbar-brand d-flex align-items-center gap-2"
                href="{{ url('/') }}">
 
-                <img src="{{ asset('images/logo.png') }}"
+                <img src="{{ asset('images/logo1.jpeg') }}"
                      class="logo-sekolah"
                      alt="Logo sekolah"
                      onerror="this.style.display='none'">
