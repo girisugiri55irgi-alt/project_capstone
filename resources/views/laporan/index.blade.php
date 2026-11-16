@@ -81,7 +81,7 @@
                 Dashboard Perkembangan Anak
             </h2>
             <div class="text-secondary">
-                TK PAUD Birrul Walidin
+                TK PAUD Birrul Walidain
             </div>
         </div>
 

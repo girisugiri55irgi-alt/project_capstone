@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kegiatan Sekolah - PAUD Birrul Walidin</title>
+    <title>Kegiatan Sekolah - TK PAUD Birrul Walidain</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
 
 <nav class="navbar navbar-dark" style="background:linear-gradient(90deg,#0756a5,#1685d4)">
     <div class="container">
-        <a class="navbar-brand fw-bold" href="{{ url('/dashboard') }}">PAUD Birrul Walidin</a>
+        <a class="navbar-brand fw-bold" href="{{ url('/dashboard') }}">TK PAUD Birrul Walidain</a>
         <a href="{{ url('/dashboard') }}" class="btn btn-light btn-sm">Kembali ke Dashboard</a>
     </div>
 </nav>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Presensi Harian - TK PAUD Birrul Walidin</title>
+    <title>Presensi Harian - TK PAUD Birrul Walidain</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
           rel="stylesheet">
@@ -36,7 +36,7 @@
     <div class="mb-4">
         <h3 class="fw-bold">Presensi Harian Anak</h3>
         <p class="text-secondary mb-0">
-            Catat kehadiran siswa TK PAUD Birrul Walidin.
+            Catat kehadiran siswa TK PAUD Birrul Walidain.
         </p>
     </div>
 

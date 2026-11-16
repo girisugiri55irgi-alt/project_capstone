@@ -50,7 +50,7 @@
 <body>
 <div class="container">
     <h1>{{ $item->exists ? 'Edit Data Kelas' : 'Tambah Data Kelas' }}</h1>
-    <p>TK PAUD Birrul Walidin</p>
+    <p>TK PAUD Birrul Walidain</p>
 
     @if ($errors->any())
         <div class="error">

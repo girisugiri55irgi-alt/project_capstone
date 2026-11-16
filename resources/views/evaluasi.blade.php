@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Evaluasi Perkembangan - PAUD Birrul Walidin</title>
+    <title>Evaluasi Perkembangan - TK PAUD Birrul Walidain</title>
 </head>
 <body>
     <h1>📊 Evaluasi Perkembangan Anak</h1>

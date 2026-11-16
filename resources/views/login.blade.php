@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Login - PAUD Birrul Walidain</title>
+    <title>Login - TK PAUD Birrul Walidain</title>
 
     <style>
         * {
@@ -154,9 +154,9 @@
         <div class="logo-sekolah">
             <img
                 src="{{ asset('images/logo1.jpeg') }}"
-                alt="Logo PAUD Birrul Walidain"
+                alt="Logo TK PAUD Birrul Walidain"
             >
-            <h2>PAUD Birrul Walidain</h2>
+            <h2>TK PAUD Birrul Walidain</h2>
         </div>
 
         <p class="deskripsi">

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Tugas Anak - PAUD Birrul Walidain</title>
+    <title>Tugas Anak - TK PAUD Birrul Walidain</title>
 </head>
 <body>
     <h1>📝 Tugas Anak</h1>

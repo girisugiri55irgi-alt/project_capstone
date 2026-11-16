@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>@yield('title', 'TK PAUD Birrul Walidin')</title>
+    <title>@yield('title', 'TK PAUD Birrul Walidain')</title>
 
     <!-- Bootstrap 5 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
@@ -188,7 +188,7 @@
                      alt="Logo sekolah"
                      onerror="this.style.display='none'">
 
-                <span>TK PAUD BIRRUL WALIDIN</span>
+                <span>TK PAUD BIRRUL WALIDAIN</span>
             </a>
 
             <button class="navbar-toggler border-light"
@@ -294,7 +294,7 @@
     </main>
 
     <footer>
-        &copy; {{ date('Y') }} TK PAUD Birrul Walidin.
+        &copy; {{ date('Y') }} TK PAUD Birrul Walidain.
         Website Monitoring Perkembangan dan Evaluasi Belajar Anak Usia Dini.
     </footer>
 

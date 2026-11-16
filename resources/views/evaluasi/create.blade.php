@@ -9,7 +9,7 @@
 <body class="bg-light">
 <div class="container py-4">
     <h2>Input Evaluasi Perkembangan Anak</h2>
-    <p class="text-muted">PAUD Birrul Walidain</p>
+    <p class="text-muted">TK PAUD Birrul Walidain</p>
 
     @if ($errors->any())
         <div class="alert alert-danger">

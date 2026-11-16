@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Tambah Siswa - PAUD Birrul Walidin</title>
+    <title>Tambah Siswa - TK PAUD Birrul Walidain</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -75,7 +75,7 @@
                  class="school-logo"
                  onerror="this.style.display='none'">
             <span>
-                <strong>PAUD Birrul Walidin</strong>
+                <strong>TK PAUD Birrul Walidain</strong>
                 <small class="d-block text-white-50">
                     Sistem Monitoring Perkembangan Anak
                 </small>
@@ -277,7 +277,7 @@
     </form>
 
     <footer class="text-center text-secondary small mt-4">
-        © {{ date('Y') }} PAUD Birrul Walidin
+        © {{ date('Y') }} TK PAUD Birrul Walidain
     </footer>
 </main>
 

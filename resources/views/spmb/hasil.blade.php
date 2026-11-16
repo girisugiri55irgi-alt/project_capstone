@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Hasil Pendaftaran SPMB - PAUD Birrul Walidain</title>
+    <title>Hasil Pendaftaran SPMB - TK PAUD Birrul Walidain</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
           rel="stylesheet">
@@ -214,7 +214,7 @@
            class="navbar-brand d-flex align-items-center gap-2">
 
             <img src="{{ asset('images/logo1.jpeg') }}"
-                 alt="Logo PAUD Birrul Walidain"
+                 alt="Logo TK PAUD Birrul Walidain"
                  class="logo-sekolah">
 
             <span class="fw-bold">TK PAUD Birrul Walidain</span>

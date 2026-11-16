@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Data Tahun Ajaran - PAUD Birrul Walidin</title>
+    <title>Data Tahun Ajaran - TK PAUD Birrul Walidain</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
@@ -13,7 +13,7 @@
         <div>
             <h2>Data Tahun Ajaran</h2>
             <p class="text-muted mb-0">
-                Kelola tahun ajaran TK PAUD Birrul Walidin.
+                Kelola tahun ajaran TK PAUD Birrul Walidain.
             </p>
         </div>
         <a href="{{ route('tahun-ajaran.create') }}" class="btn btn-primary">

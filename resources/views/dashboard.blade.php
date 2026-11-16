@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dashboard Administrator - PAUD Birrul Walidain</title>
+    <title>Dashboard Administrator - TK PAUD Birrul Walidain</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -475,7 +475,7 @@
             <h2 class="panel-title mb-1">Pengelolaan Akun dan Data Master</h2>
 
             <p class="text-secondary small mb-3">
-                Pilih salah satu menu untuk mengelola data PAUD Birrul Walidain.
+                Pilih salah satu menu untuk mengelola data TK PAUD Birrul Walidain.
             </p>
 
             <div class="row g-3">

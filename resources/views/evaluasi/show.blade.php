@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Detail Evaluasi Anak - PAUD Birrul Walidain</title>
+    <title>Detail Evaluasi Anak - TK PAUD Birrul Walidain</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body { background: #f0f5ff; font-family: Arial, sans-serif; color: #243247; }
@@ -40,7 +40,7 @@
         <a class="navbar-brand d-flex align-items-center gap-3" href="{{ $dashboardRoute }}">
             <img src="{{ asset('images/logo1.jpeg') }}" class="school-logo" alt="Logo Sekolah">
             <span>
-                <strong>PAUD Birrul Walidain</strong>
+                <strong>TK PAUD Birrul Walidain</strong>
                 <small class="d-block text-white-50">Sistem Monitoring Perkembangan Anak</small>
             </span>
         </a>
@@ -131,7 +131,7 @@
     @endif
 
     <footer class="text-center text-secondary small py-3">
-        © {{ date('Y') }} PAUD Birrul Walidain
+        © {{ date('Y') }} TK PAUD Birrul Walidain
     </footer>
 </main>
 </body>

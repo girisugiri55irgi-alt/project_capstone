@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Login - PAUD Birrul Walidain</title>
+    <title>Login - TK PAUD Birrul Walidain</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +47,7 @@
 </head>
 <body>
     <div class="login-box">
-        <h2>🌱 PAUD Birrul Walidain</h2>
+        <h2>🌱 TK PAUD Birrul Walidain</h2>
         <p style="text-align:center">Silakan masuk ke akun Anda</p>
 
         @if ($errors->any())
